@@ -25,18 +25,19 @@ https://codesandbox.io/s/old-tree-2ij2x
 
 ### Resultado da classificação
 
-Carro 1:
-R. Eurita, 768 - santa tereza
-Rua Cairu 125
-Avenida Cachoeirinha, 281 - Santa Cruz
+* Carro 1:
 
-Carro 2:
-R. Júlia lina, 101 - Frei Eustáquio
-Rua firmino costa 185, jardim montanhês
+  * R. Eurita, 768 - santa tereza
+  * Rua Cairu 125
+  * Avenida Cachoeirinha, 281 - Santa Cruz
 
-Carro 3:
-Rua Opala, 110, Cruzeiro
-Rua Mestre Luiz 46 São Pedro Bh
+* Carro 2:
+  * R. Júlia lina, 101 - Frei Eustáquio
+  * Rua firmino costa 185, jardim montanhês
+
+* Carro 3:
+  * Rua Opala, 110, Cruzeiro
+  * Rua Mestre Luiz 46 São Pedro Bh
 
 
 ### Links das rotas criadas pelo agrupamento de endereços para o destino no Mineirão
