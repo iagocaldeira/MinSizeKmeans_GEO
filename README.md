@@ -17,3 +17,8 @@ import pulp
 ```
 
 https://colab.research.google.com/drive/17KZUCeoPFRXS8rprQyniKo-oeaN4Ek1Z
+
+
+Exemplo de aplicação da API do google maps para multiplas paradas
+
+https://codesandbox.io/s/old-tree-2ij2x
