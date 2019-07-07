@@ -1,0 +1,12 @@
+carro 1:
+Rua Cairu 125
+Avenida Cachoeirinha, 281 - Santa Cruz
+R. Eurita, 768 - santa tereza
+
+carro 2:
+Rua firmino costa 185, jardim montanhês
+R. Júlia lina, 101 - Frei Eustáquio
+
+carro 3:
+Rua Mestre Luiz 46 São Pedro Bh
+Rua Opala, 110, Cruzeiro
