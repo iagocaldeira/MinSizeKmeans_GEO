@@ -2,7 +2,7 @@
 Execution of Behrouz Babaki's implementation of Kmeans into GeoData https://github.com/Behrouz-Babaki/MinSizeKmeans
 
 
-##Code on Jupyter Notebook with Python3:
+## Code on Jupyter Notebook with Python3:
 
 ```
 !wget -O MinSizeKmeans.zip https://github.com/Behrouz-Babaki/MinSizeKmeans/archive/master.zip
